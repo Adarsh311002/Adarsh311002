@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">Currently Honing my skills on fullstack developement</h3>
 
-<img align="right" alt="codegif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" border="rounded" alt="codegif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 - 💬 Ask me about **Development,Design,Editing**
 
 - 📫 How to reach me **ad.adarsh31102002@gmail.com**
 
-- ⚡ Fun fact **Ambitious One!**
+- ⚡ **Ambitious One!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
