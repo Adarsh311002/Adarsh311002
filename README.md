@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">Currently honing my skills in Fullstack Development</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <img align="right" alt="codegif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-🌐 Check out my personal portfolio: **[Portfolio Website](https://personal-portfolio-omega-seven-14.vercel.app/)**  
+🌐 Check out my personal portfolio: **[Portfolio Website](https://adarsh31.vercel.app/)**  
 
 - 💬 Ask me about **Development, Design, Editing**  
 - 📫 Reach me at **ad.adarsh31102002@gmail.com**  
@@ -47,3 +47,4 @@
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
+
