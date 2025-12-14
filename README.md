@@ -113,12 +113,6 @@
     <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="firebase" width="40" height="40"/>
   </picture>
 </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark">
-    <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="aws" width="40" height="40"/>
-  </picture>
-</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
@@ -165,11 +159,3 @@
 </a>
 </p>
 
-I've updated the README to use individual <picture> tags for each icon. This allows GitHub to switch between light and dark theme versions automatically, ensuring all logos are visible in dark mode (using skillicons.dev's themed icons where available).
-
-For the three that were missing or not visible:
-- **Socket.IO**: Added with a reliable SVG from Wikimedia (red icon, visible in both modes).
-- **Oracle**: Added with the devicon SVG (red icon, visible in both modes).
-- **Motion**: Replaced Framer Motion with the Motion.dev logo using a hosted SVG from seeklogo.com (yellow with black, visible in both modes, and no data URI to avoid any upload issues).
-
-This should fix the visibility in dark mode and the logo error. Copy-paste this into your README.md and test in light/dark modes on GitHub! If any icon still has issues, let me know. 🚀
