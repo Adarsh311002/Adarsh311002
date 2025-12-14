@@ -9,50 +9,167 @@
 - 📫 Reach me at **ad.adarsh31102002@gmail.com**  
 - ⚡ **Ambitious One!**  
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/adarsh-081533287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- Core Programming -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="cplusplus" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript" width="40" height="40"/>
+  </picture>
+</a>
 
 <!-- Web Technologies -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html5" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark">
+    <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css3" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark">
+    <img src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux&theme=dark">
+    <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="redux" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark">
+    <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socketio" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" width="40" height="40"/>
+  </picture>
+</a>
 
 <!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="postgresql" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </picture>
+</a>
 
 <!-- Cloud & Tools -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase&theme=dark">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="firebase" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark">
+    <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="aws" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
+    <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="40" height="40"/>
+  </picture>
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark">
+    <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="postman" width="40" height="40"/>
+  </picture>
+</a>
 
 <!-- Design -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" width="40" height="40"/>
+  </picture>
 </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="photoshop" width="40" height="40"/>
+  </picture>
 </a>
 <a href="https://motion.dev/" target="_blank" rel="noreferrer">
-  <img src="data:image/svg+xml;base64,PHN2ZyBkaXNwbGF5PSJibG9jayIgcm9sZT0icHJlc2VudGF0aW9uIiB2aWV3Qm94PSIwIDAgMzUgMzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaWQ9IjIzMDQ1ODkzNSI+PHBhdGggZD0iTSAwIDYgQyAwIDIuNjg2IDIuNjg2IDAgNiAwIEwgMjkgMCBDIDMyLjMxNCAwIDM1IDIuNjg2IDM1IDYgTCAzNSAyOSBDIDM1IDMyLjMxNCAzMi4zMTQgMzUgMjkgMzUgTCA2IDM1IEMgMi42ODYgMzUgMCAzMi4zMTQgMCAyOSBaIiBmaWxsPSJyZ2IoMjU0LCAyNDYsIDQyKSIgaGVpZ2h0PSIzNXB4IiBpZD0iV0hia1p1NExCIiB3aWR0aD0iMzVweCI+PC9wYXRoPjxwYXRoIGQ9Ik0gOS41ODcgMCBMIDQuNTcgOSBMIDAgOSBMIDMuOTE3IDEuOTcyIEMgNC41MjQgMC44ODMgNi4wMzkgMCA3LjMwMSAwIFogTSAyMC43OTQgMi4yNSBDIDIwLjc5NCAxLjAwNyAyMS44MTcgMCAyMy4wNzkgMCBDIDI0LjM0MSAwIDI1LjM2NCAxLjAwNyAyNS4zNjQgMi4yNSBDIDI1LjM2NCAzLjQ5MyAyNC4zNDEgNC41IDIzLjA3OSA0LjUgQyAyMS44MTcgNC41IDIwLjc5NCAzLjQ5MyAyMC43OTQgMi4yNSBaIE0gMTAuNDQzIDAgTCAxNS4wMTMgMCBMIDkuOTk3IDkgTCA1LjQyNyA5IFogTSAxNS44NDEgMCBMIDIwLjQxMSAwIEwgMTYuNDk0IDcuMDI4IEMgMTUuODg3IDguMTE3IDE0LjM3MiA5IDEzLjExIDkgTCAxMC44MjUgOSBaIiBmaWxsPSJyZ2IoMTIsIDE2LCAxOCkiIGhlaWdodD0iOXB4IiBpZD0ibUdWOGJ4MkV3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1IDEzKSIgd2lkdGg9IjI1LjM2MzYzNTMyNzIxNjcyN3B4Ij48L3BhdGg+PC9zdmc+" alt="Motion" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://seeklogo.com/images/M/motion-one-logo-8B0A83E2A5-seeklogo.com.svg">
+    <img src="https://seeklogo.com/images/M/motion-one-logo-8B0A83E2A5-seeklogo.com.svg" alt="Motion" width="40" height="40"/>
+  </picture>
 </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark">
+    <img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="arduino" width="40" height="40"/>
+  </picture>
 </a>
 </p>
 
+I've updated the README to use individual <picture> tags for each icon. This allows GitHub to switch between light and dark theme versions automatically, ensuring all logos are visible in dark mode (using skillicons.dev's themed icons where available).
 
+For the three that were missing or not visible:
+- **Socket.IO**: Added with a reliable SVG from Wikimedia (red icon, visible in both modes).
+- **Oracle**: Added with the devicon SVG (red icon, visible in both modes).
+- **Motion**: Replaced Framer Motion with the Motion.dev logo using a hosted SVG from seeklogo.com (yellow with black, visible in both modes, and no data URI to avoid any upload issues).
 
-
+This should fix the visibility in dark mode and the logo error. Copy-paste this into your README.md and test in light/dark modes on GitHub! If any icon still has issues, let me know. 🚀
