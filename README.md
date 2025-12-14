@@ -9,11 +9,6 @@
 - 📫 Reach me at **ad.adarsh31102002@gmail.com**  
 - ⚡ **Ambitious One!**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adarsh-081533287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!-- Core Programming -->
@@ -28,6 +23,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 <!-- Databases -->
@@ -37,7 +33,8 @@
 
 <!-- Cloud & Tools -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
@@ -48,13 +45,14 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a>
-<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" alt="Framer Motion" width="40" height="40"/>
+<a href="https://motion.dev/" target="_blank" rel="noreferrer">
+  <img src="data:image/svg+xml;base64,PHN2ZyBkaXNwbGF5PSJibG9jayIgcm9sZT0icHJlc2VudGF0aW9uIiB2aWV3Qm94PSIwIDAgMzUgMzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaWQ9IjIzMDQ1ODkzNSI+PHBhdGggZD0iTSAwIDYgQyAwIDIuNjg2IDIuNjg2IDAgNiAwIEwgMjkgMCBDIDMyLjMxNCAwIDM1IDIuNjg2IDM1IDYgTCAzNSAyOSBDIDM1IDMyLjMxNCAzMi4zMTQgMzUgMjkgMzUgTCA2IDM1IEMgMi42ODYgMzUgMCAzMi4zMTQgMCAyOSBaIiBmaWxsPSJyZ2IoMjU0LCAyNDYsIDQyKSIgaGVpZ2h0PSIzNXB4IiBpZD0iV0hia1p1NExCIiB3aWR0aD0iMzVweCI+PC9wYXRoPjxwYXRoIGQ9Ik0gOS41ODcgMCBMIDQuNTcgOSBMIDAgOSBMIDMuOTE3IDEuOTcyIEMgNC41MjQgMC44ODMgNi4wMzkgMCA3LjMwMSAwIFogTSAyMC43OTQgMi4yNSBDIDIwLjc5NCAxLjAwNyAyMS44MTcgMCAyMy4wNzkgMCBDIDI0LjM0MSAwIDI1LjM2NCAxLjAwNyAyNS4zNjQgMi4yNSBDIDI1LjM2NCAzLjQ5MyAyNC4zNDEgNC41IDIzLjA3OSA0LjUgQyAyMS44MTcgNC41IDIwLjc5NCAzLjQ5MyAyMC43OTQgMi4yNSBaIE0gMTAuNDQzIDAgTCAxNS4wMTMgMCBMIDkuOTk3IDkgTCA1LjQyNyA5IFogTSAxNS44NDEgMCBMIDIwLjQxMSAwIEwgMTYuNDk0IDcuMDI4IEMgMTUuODg3IDguMTE3IDE0LjM3MiA5IDEzLjExIDkgTCAxMC44MjUgOSBaIiBmaWxsPSJyZ2IoMTIsIDE2LCAxOCkiIGhlaWdodD0iOXB4IiBpZD0ibUdWOGJ4MkV3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1IDEzKSIgd2lkdGg9IjI1LjM2MzYzNTMyNzIxNjcyN3B4Ij48L3BhdGg+PC9zdmc+" alt="Motion" width="40" height="40"/>
 </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 </p>
+
 
 
 
