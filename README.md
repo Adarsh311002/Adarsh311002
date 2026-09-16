@@ -1,161 +1,131 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Software Engineer — Full-stack, React Native & Backend Systems</h3>
 
 <img align="right" alt="codegif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-🌐 Check out my personal portfolio: **[Portfolio Website](https://adarsh31.vercel.app/)**  
+🌐 Portfolio: **[xadarsh.vercel.app](https://xadarsh.vercel.app)**
 
-- 💬 Ask me about **Development, Design, Editing**  
-- 📫 Reach me at **ad.adarsh31102002@gmail.com**  
-- ⚡ **Ambitious One!**  
+- 🔭 Associate Software Engineer at **DigitalSherpa.AI**, building inventory & POS apps in React Native — and developing **FocusFlow** and **Doom Tracker** on the side.
+- 🧠 Also built the **RAG pipeline and LLM orchestration** behind the AI assistant on my portfolio — Qdrant vector search, MongoDB-backed conversational memory, failover across models.
+- ⚙️ Most of my attention lately goes to **backend systems that hold under pressure**: idempotent payment flows, Redis-backed queues, ACID transactions that can't half-complete.
+- 🧩 Work through system design & DSA deliberately — **200+ problems solved** — and keep an open set of [system design notes](https://github.com/Adarsh311002/System_Design_For_Everyone).
+- 🎨 Also run **[Stillness X](https://stillnessx.space)**, a small design & dev studio for client and freelance work.
+- 📫 Reach me at **ad.adarsh31102002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-081533287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- Core Programming -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="cplusplus" width="40" height="40"/>
-  </picture>
+<a href="https://www.linkedin.com/in/adarsh-081533287/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
-    <img src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript" width="40" height="40"/>
-  </picture>
+<a href="mailto:ad.adarsh31102002@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
 </a>
-
-<!-- Web Technologies -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html5" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css3" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark">
-    <img src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redux&theme=dark">
-    <img src="https://skillicons.dev/icons?i=redux&theme=light" alt="redux" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express&theme=dark">
-    <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socketio" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
-    <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" width="40" height="40"/>
-  </picture>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="postgresql" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </picture>
-</a>
-
-<!-- Cloud & Tools -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase&theme=dark">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="firebase" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
-    <img src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
-    <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark">
-    <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="postman" width="40" height="40"/>
-  </picture>
-</a>
-
-<!-- Design -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma&theme=dark">
-    <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps&theme=dark">
-    <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="photoshop" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://motion.dev/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://seeklogo.com/images/M/motion-one-logo-8B0A83E2A5-seeklogo.com.svg">
-    <img src="https://seeklogo.com/images/M/motion-one-logo-8B0A83E2A5-seeklogo.com.svg" alt="Motion" width="40" height="40"/>
-  </picture>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark">
-    <img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="arduino" width="40" height="40"/>
-  </picture>
+<a href="https://xadarsh.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio" />
 </a>
 </p>
 
+<h3 align="left">Languages & Tools</h3>
+
+**Languages** — comfortable moving between a typed frontend and systems-flavoured problem solving.
+
+<table>
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" alt="JavaScript"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" height="40" alt="TypeScript"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" height="40" alt="C++"/>
+</td>
+</tr>
+</table>
+
+<sub>Also: SQL</sub>
+
+<br>
+
+**Frontend** — component architecture and state flows that stay predictable as a product grows.
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React"/></td>
+<td><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="40" height="40" alt="Redux"/></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" alt="Tailwind CSS"/></td>
+<td><img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="Framer Motion"/></td>
+<td><img src="https://cdn.simpleicons.org/shadcnui" width="40" height="40" alt="shadcn/ui"/></td>
+<td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML5"/></td>
+<td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" alt="CSS3"/></td>
+</tr>
+</table>
+
+**Mobile** — shipped to both stores, including the platform-specific bugs nobody writes tutorials about.
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React Native"/></td>
+<td><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40" height="40" alt="Android"/></td>
+<td><img src="https://skillicons.dev/icons?i=apple&theme=dark" width="40" height="40" alt="iOS"/></td>
+<td><img src="https://cdn.simpleicons.org/reactquery" width="40" height="40" alt="TanStack Query"/></td>
+</tr>
+</table>
+
+<sub>Also: Reanimated, Zustand + MMKV, FlashList</sub>
+
+<br>
+
+**Backend** — API design with the awkward parts handled: auth, retries, real-time channels.
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" alt="Node.js"/></td>
+<td><img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" height="40" alt="Express.js"/></td>
+<td><img src="https://cdn.simpleicons.org/socketdotio" width="40" height="40" alt="Socket.IO"/></td>
+<td><img src="https://cdn.simpleicons.org/jsonwebtokens" width="40" height="40" alt="JWT"/></td>
+</tr>
+</table>
+
+<sub>Also: REST APIs, OAuth 2.0, Payment gateways</sub>
+
+<br>
+
+**Data & Infrastructure** — storage, caching and deployment I've actually operated, not just configured once.
+
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" height="40" alt="MongoDB"/></td>
+<td><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" height="40" alt="Redis"/></td>
+<td><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="40" height="40" alt="Firebase"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40" alt="Docker"/></td>
+<td><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" height="40" alt="AWS"/></td>
+<td><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="40" height="40" alt="Nginx"/></td>
+</tr>
+</table>
+
+<sub>Also: BullMQ, Room</sub>
+
+<br>
+
+**AI / LLM** — practical software built on language models, where the retrieval, tools and failure handling around the model are the engineering.
+
+<table>
+<tr>
+<td><img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Anthropic"/></td>
+<td><img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Gemini"/></td>
+<td><img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/></td>
+<td><img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude Code"/></td>
+</tr>
+</table>
+
+<sub>Also: RAG pipelines, AI agents, tool & function calling, prompt engineering, LLM architecture & workflows</sub>
+
+<br>
+
+**Practice** — the reasoning underneath the tools, where most of the interesting decisions live.
+
+<sub>
+System design · Data structures & algorithms · ACID transactions · Caching strategies · Queue architecture · OOP
+</sub>
